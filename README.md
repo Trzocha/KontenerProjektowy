@@ -1,4 +1,4 @@
 # KontenerProjektowy
 Kontener rwd do najlepszych projektów
 
-Link: www.stwebrider.ovh
+Link: https://trzocha.github.io/KontenerProjektowy/
